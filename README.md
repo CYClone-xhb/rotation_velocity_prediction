@@ -1,3 +1,3 @@
-Article Title：Cyclone particle rotation velocity prediction: machine learning model comparison and symbolic regression modeling
+Article Title：AI-optimized industrial ultra-low-energy consumption non-phase-change cyclone self-rotation drying
 
 （The exact code will be provided after the article is published）
